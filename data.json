@@ -1,0 +1,11 @@
+{
+  "users": {
+    "default": {
+      "xp": 0,
+      "level": 1
+    }
+  },
+  "memory": [],
+  "reminders": [],
+  "iot": {}
+}
